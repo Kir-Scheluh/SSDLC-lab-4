@@ -18,4 +18,6 @@ $result = mysqli_query($GLOBALS["___mysqli_ston"],  $query ); <br />
   Данное задание представлено в файле task3.php
 4.	Использовать sqlmap для нахождения уязвимости в веб-ресурсе<br />
 
-5.	Использовать Burp для нахождения уязвимости в веб-ресурсе<br />
+![Скрин SQLmap](https://github.com/Kir-Scheluh/SSDLC-lab-4/assets/71601556/5a8738fb-15a4-43be-9d8a-873698d42d84)
+
+
